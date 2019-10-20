@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13" class="java.beans.XMLDecoder">
+ <object class="Person">
+  <void property="email">
+   <string>mr.dimenter@gmail.com</string>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="name">
+   <string>Dima</string>
+  </void>
+ </object>
+</java>
